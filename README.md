@@ -1,7 +1,7 @@
 # EXNO2DS
 ```
-Name: ARUN S
-reg no: 212224230023
+Name: Sangeeth J
+reg no: 212225220089
 ```
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
